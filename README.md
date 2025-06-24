@@ -1,4 +1,4 @@
-# First-Day
+# First Day
 
 This is a short visual novel I made as a final project for my Digital Cultures & Narrative class. The requirements for thia assignment were as follows:
 - At least 2 scenes with background images, characters, dialogue, etc.
